@@ -8,15 +8,15 @@ My projects combine Python, TypeScript, React, React Native, document processing
 
 | Project | What I've built | Current stage |
 | --- | --- | --- |
-| [Puduvai Voice](https://puduvaivoice.online) | Civic reporting in English, Tamil, and Hindi, with location-based reports, moderation, issue tracking, and AI-assisted administrator review. | Deployed pilot; readiness checks continue. |
-| I NEED HELP | A React Native / Expo app for requesting nearby assistance, offering help, accepting helpers, completing requests, and private chat. | Android development pilot; push delivery and release validation remain in progress. |
-| Exam Evaluator | A Python pipeline for scanned handwritten exams: page identification, answer extraction, handwriting understanding, marking, and a teacher review queue with evidence-backed gates. | Research prototype; independent real-handwriting validation is pending. |
-| Puducherry Budget Analyser | A local macOS application that extracts government budget PDFs into Excel with departmental analysis, charts, reconciliation checks, and flagged uncertain values. | Local application. |
-| RTI Analysis | Document-processing scripts and published-style reports exploring Puducherry electricity and school-education RTI responses. | Research and reporting workspace. |
-| Election Data Research | Source collection and analysis scripts investigating voter-roll revisions and election outcomes in Puducherry and Tamil Nadu. | Research outputs; observational analysis. |
-| Haier TV Home | An adapted Android TV launcher and device-specific optimization study, including build artifacts and recovery documentation. | Installed trial; remote, playback, and recovery validation remain open. Based on upstream work. |
+| [Puduvai Voice](https://github.com/aslam58/puduvai-voice) · [Live pilot](https://puduvaivoice.online) | Civic reporting in English, Tamil, and Hindi, with location-based reports, moderation, issue tracking, and AI-assisted administrator review. | Deployed pilot; readiness checks continue. |
+| [I NEED HELP](https://github.com/aslam58/i-need-help) | A React Native / Expo app for requesting nearby assistance, offering help, accepting helpers, completing requests, and private chat. | Android development pilot; push delivery and release validation remain in progress. |
+| Exam Evaluator (private source) | A Python pipeline for scanned handwritten exams: page identification, answer extraction, handwriting understanding, marking, and a teacher review queue with evidence-backed gates. | Research prototype; independent real-handwriting validation is pending. |
+| [Puducherry Budget Analyser](https://github.com/aslam58/puducherry-budget-analyser) | A local macOS application that extracts government budget PDFs into Excel with departmental analysis, charts, reconciliation checks, and flagged uncertain values. | Local application. |
+| [RTI Analysis](https://github.com/aslam58/rti-analysis) | Document-processing scripts and published-style reports exploring Puducherry electricity and school-education RTI responses. | Research and reporting workspace. |
+| [Election Data Research](https://github.com/aslam58/election-data-research) | Source collection and analysis scripts investigating voter-roll revisions and election outcomes in Puducherry and Tamil Nadu. | Research outputs; observational analysis. |
+| [Haier TV Home](https://github.com/aslam58/haier-tv-home) | An adapted Android TV launcher and device-specific optimization study, including build artifacts and recovery documentation. | Installed trial; remote, playback, and recovery validation remain open. Based on upstream work. |
 
-Source repositories for these local projects are being prepared for publication. Project names above describe work in progress and do not imply released products.
+Public repositories contain cleaned source snapshots and setup notes. Exam Evaluator source remains private. Project names above describe work in progress and do not imply released products.
 
 ## Ideas in development
 
